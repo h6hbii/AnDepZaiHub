@@ -1,1 +1,1 @@
- game.Players.LocalPlayer:Kick("Adz Hub had Ended, Thank you for useing our script but, any more info u can contact me on discord: h.6.h")
+ game.Players.LocalPlayer:Kick("I have officially stoped updating Adz Hub because i did not have any money for obfscution..etc, and now i'am a coder in Banana Cat Hub. If u want any more info u can ping me there: @h.6.h")
